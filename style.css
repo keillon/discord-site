@@ -90,7 +90,7 @@ header {
   content: "";
   display: block;
   position: absolute;
-  background-image: url("./img/Header-Background.png");
+  background-image: url("../img/Header-Background.png");
   left: 0;
   top: 0;
   width: 100%;
