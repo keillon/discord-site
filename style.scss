@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+@import "partials/colors";
+@import "partials/header";
+@import "partials/layout";
+@import "partials/main";
+
+body {
+  font-family: "luckiest guy", sans-serif;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+button {
+  font-family: "luckiest guy", sans-serif;
+  cursor: pointer;
+}
+
+.img {
+  width: 100%;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
